@@ -1,0 +1,3 @@
+[submodule "innoextract"]
+	path = innoextract
+	url = git://github.com/dscharrer/innoextract.git
