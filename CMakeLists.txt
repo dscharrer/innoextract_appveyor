@@ -1,6 +1,6 @@
 project(innoextract_appveyor)
 
-cmake_minimum_required(VERSION 2.8.5)
+cmake_minimum_required(VERSION 2.8.5...3.19)
 
 # Change CMAKE_LIBRARY_ARCHITECTURE to ensure the right libs are used
 if(CMAKE_CL_64)
